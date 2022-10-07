@@ -13,7 +13,7 @@ example: python3 train.py Large
 
 
 
--------train options---------
+-------train options for exp 4.3---------
 
 Large (MushroomNet-Large)
 
@@ -35,6 +35,10 @@ MobileNetV3
 
 
 
+-------train options for exp 4.4---------
+
+Micro
+
 Larger-FC
 
 More-channels
@@ -45,11 +49,19 @@ Clip2
 
 
 
+-------train options for exp 4.5---------
+
+Larger-FC
+
 Leaky_ReLU
 
 ELU
 
 
+
+-------train options for exp 4.6---------
+
+Larger-FC
 
 MicroV2-half-LQ
 
