@@ -3,7 +3,7 @@ Faster lighter mushroom classification.
 
 Download and unzip FJNU_Mushroom.zip.
 
-Download mushroom datasets: 
+Download mushroom datasets: https://pan.baidu.com/s/18BaYG3Fhg8PECKXTvXg09Q (CODE:vsxf)
 
 Unzip Datasets at FJNU_Mushroom/Datasets
 
