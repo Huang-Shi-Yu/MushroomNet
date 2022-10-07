@@ -39,7 +39,7 @@ MobileNetV3
 
 Micro
 
-Larger-FC
+Larger-FC (MicroV2)
 
 More-channels
 
